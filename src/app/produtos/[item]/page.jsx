@@ -13,7 +13,7 @@ export default async function ProdutoID({params}) {
     return (
       <div>
           <h1>Identificação dos Itens</h1>
-          <h3>Valor do ID : {params.item}</h3>
+          <h3>Nome do Item : {params.item}</h3>
           <Image src= {params.Image} alt="Imagem" width={750} height={600}/>
       </div>
     )
