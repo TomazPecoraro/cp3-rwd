@@ -13,7 +13,7 @@ module.exports = {
 
         {
           protocol: 'https',
-          hostname: 'https://img.elo7.com.br',
+          hostname: 'img.elo7.com.br',
           port: '',
           pathname: '/product/original/17B1547/camisa-sublimacao-poliester.jpg',
         },
