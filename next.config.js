@@ -10,6 +10,13 @@ module.exports = {
           port: '',
           pathname: '/imghp',
         },
+
+        {
+          protocol: 'https',
+          hostname: 'https://img.elo7.com.br',
+          port: '',
+          pathname: '/product/original/17B1547/camisa-sublimacao-poliester.jpg',
+        },
         
       ],
     },

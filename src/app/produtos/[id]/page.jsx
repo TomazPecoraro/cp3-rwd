@@ -12,7 +12,7 @@ export default async function ProdutoID({ params }) {
       <p>Valor do ID: {params.id}</p>
       <p>Nome do produto: {produto.item}</p>
       <p>Descrição do produto: {produto.desc}</p>
-      <Image src={params.imagem} alt="Imagem" width={750} height={600} />
+      <Image src={produto.imagem} alt="Imagem" width={750} height={600} />
     </div>
   );
 }
